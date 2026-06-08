@@ -1,0 +1,9 @@
+# Ignorar la carpeta de binarios de Terraform
+.terraform/
+
+# Ignorar archivos de estado (contienen info sensible y pesos pesados)
+*.tfstate
+*.tfstate.backup
+
+# Ignorar variables sensibles
+*.tfvars
