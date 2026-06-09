@@ -11,3 +11,11 @@ Todo el deploy de Terraform se realizó de manera modular con la siguiente estru
 - modules/storage/storage.tf
 - modules/storage/outputs.tf
 - modules/storage/variables.tf
+
+
+## Tecnologías utilizadas:
+
+[Terraform](https://developer.hashicorp.com/terraform)
+[Google VPC](https://cloud.google.com/vpc?hl=es-419)
+[Google Compute Engine](https://cloud.google.com/products/compute?hl=es_419)
+[Google Cloud Storage](https://cloud.google.com/storage?hl=es-419)
